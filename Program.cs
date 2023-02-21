@@ -10,7 +10,11 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+ 
             Console.WriteLine("2004");
+
+            Console.WriteLine("Смирнов Кирилл Витальевич");
+
         }
     }
 }
